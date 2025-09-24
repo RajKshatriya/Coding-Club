@@ -224,15 +224,15 @@
             }
 
             .hero-bg:nth-child(1) {
-            background-image: url('./assets/images/1.jpg'); 
+            background-image: url('../images/1.jpg'); 
             }
 
             .hero-bg:nth-child(2) {
-            background-image: url('./assets/images/2.jpg');
+            background-image: url('../images/2.jpg');
             }
 
             .hero-bg:nth-child(3) {
-            background-image: url('./assets/images/3.jpg');
+            background-image: url('../images/3.jpg');
             }
 
         @keyframes pulse {
