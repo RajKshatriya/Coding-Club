@@ -16,20 +16,7 @@ body {
 	height: 100vh;
 	margin: -20px 0 50px;
 }
-/* .backgroundimage {
-	
-    background: url('image.png') ; 
-    position: fixed;
-    top: 0;
-	background-size: cover;
-    left: 0;
-    width: 100vw;
-    height: 100%;
-	width: 100%;
-    z-index: -1;
-	background-color: #f1faee;
 
-} */
 h1 {
 	font-weight: bold;
 	margin: 0;
